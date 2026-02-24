@@ -1,8 +1,8 @@
-# 💡 LinkUp.AI – Smart Academic Profile Manager for Students
+# LinkUp.AI – Smart Academic Profile Manager for Students
 
 ---
 
-### 🧠 Project Overview
+### Project Overview
 
 **LinkUp.AI** is a student-first, AI-powered profile management platform designed to help learners **build**, **organize**, and **showcase** their academic and professional journeys. Unlike traditional platforms built for working professionals, LinkUp.AI is optimized to meet the unique needs of students—acting as a **smart portfolio**, **career prep tool**, and **personal branding assistant** in one place.
 
@@ -10,7 +10,7 @@ The platform helps students document achievements, generate personalized bios an
 
 ---
 
-### 🎯 Objectives
+### Objectives
 
 - Build a structured academic portfolio for students.
 - Automate resume creation, bio generation, and project summaries using AI.
@@ -20,55 +20,55 @@ The platform helps students document achievements, generate personalized bios an
 
 ---
 
-### 🏗️ Core Features
+### Core Features
 
-#### 👤 Profile Management
+#### Profile Management
 
-- ✨ **AI-Generated Bio**  
+-  **AI-Generated Bio**  
   One-click generation of impactful student introductions.
 
-- 📝 **Smart Resume Builder**  
+- **Smart Resume Builder**  
   Convert your academic data into a clean, downloadable resume.
 
-- 🧠 **Project Summarizer**  
+- **Project Summarizer**  
   Automatically summarize long or technical project details.
 
 ---
 
-#### 📘 Portfolio Timeline
+#### Portfolio Timeline
 
 - Add:
-  - 🎓 Courses
-  - 💼 Internships
-  - 🛠️ Projects
-  - 🏆 Achievements
-  - 📂 Certifications
+  -  Courses
+  -  Internships
+  -  Projects
+  -  Achievements
+  -  Certifications
 - Upload supporting documents (certificates, notes, reports).
 - View everything in a clean, **visual timeline** that tracks growth over time.
 
 ---
 
-#### 🤝 Collaboration
+####  Collaboration
 
 - Find:
-  - 🧑‍💻 Coding partners
-  - 🧑‍🏫 Mentors
-  - 🧑‍🎓 Group project teammates
+  -  Coding partners
+  -  Mentors
+  -  Group project teammates
 
 ---
 
-#### 🧠 AI-Powered Recommendations
+####  AI-Powered Recommendations
 
 - Discover opportunities tailored to your journey:
-  - 📚 Courses
-  - 📜 Certifications
-  - 🏢 Internships
-  - 🚀 Projects
-  - 🔍 Jobs
+  -  Courses
+  -  Certifications
+  -  Internships
+  -  Projects
+  -  Jobs
 
 ---
 
-### 🔐 Authentication & Personalization
+### Authentication & Personalization
 
 - Firebase/Google login
 - User dashboard with customizable sections
@@ -77,7 +77,7 @@ The platform helps students document achievements, generate personalized bios an
 
 ---
 
-### ⚙️ Technical Architecture
+###  Technical Architecture
 
 | Layer        | Technology                                         |
 | ------------ | -------------------------------------------------- |
